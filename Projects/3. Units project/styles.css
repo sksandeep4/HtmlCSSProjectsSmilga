@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+#navbar {
+  background-color: #ccc;
+  height: 150px;
+}
+.logo {
+  font-size: 4em;
+  color: rgb(255, 255, 0);
+}
+.hero {
+  color: #ff0000;
+  min-height: calc(100vh - 150px);
+  background-color: #333;
+}
+span {
+  color: #ff9900;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+.hero-btn {
+  background-color: #ff9900;
+  padding: 5px;
+  color: aliceblue;
+}
